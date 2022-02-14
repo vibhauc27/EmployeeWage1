@@ -7,6 +7,7 @@ namespace EmployeeWage
     {
        public const int fullTime = 1;
        public const int partTime = 2;
+       public const int numOfWorkingDays = 2;
        //public const int empRatePerHour = 20;
         static void Main(string[] args)
         {
@@ -16,24 +17,31 @@ namespace EmployeeWage
 
             int empHour = 0;
             int empWage = 0;
+            int totalEmpWage = 0;
 
-            Random random = new Random();
-
-            int empCheck = random.Next(0,3);
-            switch (empCheck)
+            for(int day = 0; day < numOfWorkingDays; day++)
             {
-                case partTime:
-                    empHour = 4;
-                    break;
-                case fullTime:
-                    empHour = 8;
-                    break;
-                default:
-                    empHour = 0;
-                    break;
-           }
-            empWage = empHour * empRatePerHour;
-            Console.WriteLine("Employee wage : " + empWage);
+                Random random = new Random();
+
+                int empCheck = random.Next(0, 3);
+                switch (empCheck)
+                {
+                    case partTime:
+                        empHour = 4;
+                        break;
+                    case fullTime:
+                        empHour = 8;
+                        break;
+                    default:
+                        empHour = 0;
+                        break;
+                }
+                empWage = empHour * empRatePerHour;
+                totalEmpWage = totalEmpWage + empWage;
+                Console.WriteLine("Employee wage : " + empWage);
+            }
+            Console.WriteLine("Total Employee Wage : " + totalEmpWage);
+            
         }
     }
 }
