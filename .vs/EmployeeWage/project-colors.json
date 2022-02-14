@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fa60641c-8789-48b0-a7aa-732ab0a9bf03": {
+      "ProjectGuid": "fa60641c-8789-48b0-a7aa-732ab0a9bf03",
+      "DisplayName": "EmployeeWage",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

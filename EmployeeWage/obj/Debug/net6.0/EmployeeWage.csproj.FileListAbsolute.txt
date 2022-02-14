@@ -1,0 +1,15 @@
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.csproj.AssemblyReference.cache
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.AssemblyInfoInputs.cache
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.AssemblyInfo.cs
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.exe
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.deps.json
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.runtimeconfig.json
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.dll
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\ref\EmployeeWage.dll
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.pdb
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.dll
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\ref\EmployeeWage.dll
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.pdb
+C:\Users\vindy\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWage.genruntimeconfig.cache
