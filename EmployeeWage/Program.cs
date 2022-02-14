@@ -8,6 +8,7 @@ namespace EmployeeWage
         static void Main(string[] args)
         {
             int fullTime = 1;
+            int partTime = 2;
             int empRatePerHour = 20;
 
             int empHour = 0;
@@ -15,8 +16,12 @@ namespace EmployeeWage
 
             Random random = new Random();
 
-            int empCheck = random.Next(0,2);
-            if (empCheck == fullTime)
+            int empCheck = random.Next(0,3);
+            if (empCheck == partTime)
+            {
+                empHour = 4;
+            }
+            else if (empCheck == fullTime)
             {
                 empHour = 8;
             }
