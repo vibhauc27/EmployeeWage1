@@ -11,7 +11,7 @@ namespace EmployeeWage
         //public const int empRatePerHour = 20;
        public const int maxHoursInMonth = 10;
         
-        static void Main(string[] args)
+        public static int EmployeeWage()
         {
             //int fullTime = 1;
             //int partTime = 2;
@@ -47,7 +47,11 @@ namespace EmployeeWage
             }
             totalEmpWage = totalEmpHour * empRatePerHour;
             Console.WriteLine("Total Employee Wage : " + totalEmpWage);
-            
+            return totalEmpWage;
+        }
+        static void Main(string[] args)
+        {
+            EmployeeWage();
         }
     }
 }
